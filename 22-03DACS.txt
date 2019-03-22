@@ -392,3 +392,4 @@ C:\Users\salva\OneDrive\Desktop\GIThub\Secreto>git merge rama2
 Already up to date.
 mas texto
 mas mas text0
+mas mas mas texto :P

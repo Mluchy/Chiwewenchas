@@ -1,4 +1,4 @@
-Microsoft Windows [Versión 10.0.17134.648]
+Microsoft Windows [VersiÃ³n 10.0.17134.648]
 (c) 2018 Microsoft Corporation. Todos los derechos reservados.
 
 C:\Users\salva>git clone https://github.com/salva12/Secreto.git
@@ -390,3 +390,4 @@ C:\Users\salva\OneDrive\Desktop\GIThub\Secreto>git branch
 
 C:\Users\salva\OneDrive\Desktop\GIThub\Secreto>git merge rama2
 Already up to date.
+mas texto
